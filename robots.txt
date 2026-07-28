@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-cxs0bs.salamcuan.shop/sitemap.xml
